@@ -1,12 +1,27 @@
+## 👋 안녕하세요. 인우입니다!
 
-### 안녕하세요! 항상 즐겁게 개발하는 inu입니다. 👋
+### 💁🏻‍♂️ Introduce
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Growth%20blog-black?style=flat-square&logo=github&link=https://inuplace.tistory.com/)](https://inuplace.tistory.com/)
+- 소프트웨어의 폭넓은 문제 해결능력에 반해 개발 공부를 시작했습니다. 
+- 세상의 다양한 문제를 해결할 수 있는 개발자가 되는 것이 목표입니다.
+- 현재는 사용자와 가장 가까운 곳에서 만나며 문제를 해결해보고자 iOS 개발을 공부하고 있습니다. 
 
-- 🌱 여러 분야를 공부하며 성장중인 학생 개발자입니다.
-- 🍎 현재는 앱개발에 관심을 가지고 도전해보고 있어요.
-- 🍀 지금까지는 웹개발을 중심으로 공부해왔어요.
-- 🌞 새로운 것을 배우는 것을 좋아합니다.
-- 👯 열정있는 분들과 함께 협업하는 것을 좋아합니다.
-- 🌻 세상의 문제를 해결하는 개발자가 되고 싶습니다.
-- +) 제가 성장하는 과정을 기록중인 블로그도 운영중입니다! 상단 Growth blog 버튼으로 접속하실 수 있어요.
+### 🏃🏻‍ Career
+
+- 네이버 커넥트재단 부스트캠프 웹모바일 6기 iOS 멤버십 (2021.08 ~ 2021.12)
+- 네이버 커넥트재단 부스트캠프 웹모바일 6기 iOS 챌린지 (2021.07 ~ 2021.08)
+- 멋쟁이 사자처럼 광주 인공지능사관학교 1기 (2020.07 ~ 2020.11)
+- 건국대학교 컴퓨터공학부 (2015.03 ~ )
+
+<br>
+
+<a href="https://inuplace.tistory.com/">
+  <img
+  src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://inuplace.tistory.com/" align="right"/>
+</a>
+
+<a href="mailto:inwoo7233@gmail.com">
+  <img
+  src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wansook0316@gmail.com" align="right"/>
+</a>
+
